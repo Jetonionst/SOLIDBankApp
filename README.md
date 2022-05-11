@@ -5,7 +5,7 @@
 * Откройте терминал в папке со скачанным demo.jar или перейдите к нему с помощью команды cd
 * Запустите команду java -jar demo.jar
 
-
+## Информация
 Welcome to CLI bank service! Enter operation number:
 
 1 - Show Accounts
